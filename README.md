@@ -1,5 +1,6 @@
 # react-firebase
-Demo Video [here](./assets/FirebaseDemo.mp4)
+Demo Video 
+![](https://user-images.githubusercontent.com/75252053/207937365-bf8c846d-d8cf-4281-bdb2-1936ec44a131.mp4)
 
 ## How to deploy our app
 First of all, go to [firebase](https://console.firebase.google.com/u/0/), and create a project.
