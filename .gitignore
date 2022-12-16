@@ -72,3 +72,6 @@ node_modules/
 ./functions/node_modules/
 
 .DS_Store
+
+# project folder
+poops/
